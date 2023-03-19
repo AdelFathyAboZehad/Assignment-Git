@@ -1,0 +1,90 @@
+G:\Last Version Of Final Project\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+G:\Last Version Of Final Project\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+G:\Last Version Of Final Project\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+G:\Last Version Of Final Project\FinalProject\DBContext\bin\Debug\net7.0\Domain.dll
+G:\Last Version Of Final Project\FinalProject\DBContext\bin\Debug\net7.0\Domain.pdb
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+G:\Last Version Of Final Project\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+D:\FinalProject\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+D:\FinalProject\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+D:\FinalProject\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+D:\FinalProject\FinalProject\DBContext\bin\Debug\net7.0\Domain.dll
+D:\FinalProject\FinalProject\DBContext\bin\Debug\net7.0\Domain.pdb
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+D:\FinalProject\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\bin\Debug\net7.0\Domain.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\bin\Debug\net7.0\Domain.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+D:\FinalProject V1.1\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+D:\FinalProject V1.1\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+D:\FinalProject V1.1\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+D:\FinalProject V1.1\FinalProject\DBContext\bin\Debug\net7.0\Domain.dll
+D:\FinalProject V1.1\FinalProject\DBContext\bin\Debug\net7.0\Domain.pdb
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+D:\FinalProject V1.1\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+G:\final\FinalProject V2\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+G:\final\FinalProject V2\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+G:\final\FinalProject V2\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+G:\final\FinalProject V2\FinalProject\DBContext\bin\Debug\net7.0\Domain.dll
+G:\final\FinalProject V2\FinalProject\DBContext\bin\Debug\net7.0\Domain.pdb
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+G:\final\FinalProject V2\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+D:\FinalProject\DBContext\bin\Debug\net7.0\DBContext.deps.json
+D:\FinalProject\DBContext\bin\Debug\net7.0\DBContext.dll
+D:\FinalProject\DBContext\bin\Debug\net7.0\DBContext.pdb
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.AssemblyReference.cache
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfoInputs.cache
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.AssemblyInfo.cs
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CoreCompileInputs.cache
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.csproj.CopyComplete
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.dll
+D:\FinalProject\DBContext\obj\Debug\net7.0\refint\DBContext.dll
+D:\FinalProject\DBContext\obj\Debug\net7.0\DBContext.pdb
+D:\FinalProject\DBContext\obj\Debug\net7.0\ref\DBContext.dll
+D:\FinalProject\DBContext\bin\Debug\net7.0\Domian.dll
+D:\FinalProject\DBContext\bin\Debug\net7.0\Domian.pdb

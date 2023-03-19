@@ -1,0 +1,77 @@
+G:\Last Version Of Final Project\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+G:\Last Version Of Final Project\FinalProject\Application\bin\Debug\net7.0\Application.dll
+G:\Last Version Of Final Project\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.dll
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+G:\Last Version Of Final Project\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+D:\FinalProject\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+D:\FinalProject\FinalProject\Application\bin\Debug\net7.0\Application.dll
+D:\FinalProject\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.dll
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+D:\FinalProject\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+D:\FinalProject V1.1\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+D:\FinalProject V1.1\FinalProject\Application\bin\Debug\net7.0\Application.dll
+D:\FinalProject V1.1\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.dll
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+D:\FinalProject V1.1\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+G:\final\FinalProject V2\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+G:\final\FinalProject V2\FinalProject\Application\bin\Debug\net7.0\Application.dll
+G:\final\FinalProject V2\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.dll
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+G:\final\FinalProject V2\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+D:\FinalProject\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\FinalProject\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\FinalProject\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\FinalProject\Application\obj\Debug\net7.0\Application.dll
+D:\FinalProject\Application\obj\Debug\net7.0\refint\Application.dll
+D:\FinalProject\Application\obj\Debug\net7.0\Application.pdb
+D:\FinalProject\Application\bin\Debug\net7.0\Application.deps.json
+D:\FinalProject\Application\bin\Debug\net7.0\Application.dll
+D:\FinalProject\Application\bin\Debug\net7.0\Application.pdb
+D:\FinalProject\Application\bin\Debug\net7.0\Dtos.dll
+D:\FinalProject\Application\bin\Debug\net7.0\Dtos.pdb
+D:\FinalProject\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\FinalProject\Application\obj\Debug\net7.0\ref\Application.dll
+D:\FinalProject\Application\bin\Debug\net7.0\Domian.dll
+D:\FinalProject\Application\bin\Debug\net7.0\Domian.pdb

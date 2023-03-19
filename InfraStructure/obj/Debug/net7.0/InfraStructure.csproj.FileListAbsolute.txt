@@ -1,0 +1,88 @@
+G:\Last Version Of Final Project\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+G:\Last Version Of Final Project\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+G:\Last Version Of Final Project\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+G:\Last Version Of Final Project\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+D:\FinalProject\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+D:\FinalProject\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+D:\FinalProject\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+C:\Users\Mhmd\Desktop\cleanCode\New folder\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+D:\FinalProject V1.1\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+D:\FinalProject V1.1\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+D:\FinalProject V1.1\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject V1.1\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\Application.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\DBContext.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\Domain.dll
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\Application.pdb
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\DBContext.pdb
+G:\final\FinalProject V2\FinalProject\InfraStructure\bin\Debug\net7.0\Domain.pdb
+G:\final\FinalProject V2\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CopyComplete
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.AssemblyReference.cache
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfoInputs.cache
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.AssemblyInfo.cs
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CoreCompileInputs.cache
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.dll
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\refint\InfraStructure.dll
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.deps.json
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\InfraStructure.pdb
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Application.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\DBContext.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Dtos.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Application.pdb
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\DBContext.pdb
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Dtos.pdb
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\InfraStructure.csproj.CopyComplete
+D:\FinalProject\InfraStructure\obj\Debug\net7.0\ref\InfraStructure.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Domian.dll
+D:\FinalProject\InfraStructure\bin\Debug\net7.0\Domian.pdb

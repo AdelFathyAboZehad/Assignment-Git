@@ -1,0 +1,24 @@
+G:\final\FinalProject V2\FinalProject\Dtos\bin\Debug\net7.0\Dtos.deps.json
+G:\final\FinalProject V2\FinalProject\Dtos\bin\Debug\net7.0\Dtos.dll
+G:\final\FinalProject V2\FinalProject\Dtos\bin\Debug\net7.0\Dtos.pdb
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.dll
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\Dtos.pdb
+G:\final\FinalProject V2\FinalProject\Dtos\obj\Debug\net7.0\ref\Dtos.dll
+D:\FinalProject\Dtos\bin\Debug\net7.0\Dtos.deps.json
+D:\FinalProject\Dtos\bin\Debug\net7.0\Dtos.dll
+D:\FinalProject\Dtos\bin\Debug\net7.0\Dtos.pdb
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.dll
+D:\FinalProject\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+D:\FinalProject\Dtos\obj\Debug\net7.0\Dtos.pdb
+D:\FinalProject\Dtos\obj\Debug\net7.0\ref\Dtos.dll
